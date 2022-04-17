@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @jeet-dac
+- 👋 Hi, I’m Jeet 
+- I work at <a href='https://digitalapicraft.com/'>Digital Api Craft</a>
 - :envelope: Contact me here - jeet.m@digitalapicraft.com
 <!-- - 👀 I’m interested in Frontend development
 - 🌱 I’m currently learning Reactjs
